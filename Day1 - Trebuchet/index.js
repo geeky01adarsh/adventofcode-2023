@@ -98,12 +98,12 @@ const partTwo = () => {
 };
 
 // partOne answer
-// console.log(partOne());
+console.log("Answer of part 1:",partOne());
 
 // partTwo answer
-console.log(partTwo());
+console.log("Answer of part 2:",partTwo());
 
-// const utils
+// utils for defining regex and value list
 const reverseNumber = () => {
   const list = [
     "one",
